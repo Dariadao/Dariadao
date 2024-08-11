@@ -1,20 +1,51 @@
+<!-- <div style="display: flex; max-height: 300px; overflow: hidden;"> -->
 
+![Header](./assets/image-tech.jpg)
 
+  <!-- <img src="./assets/image-tech.jpg" 
+  alt="Header" style="max-width: 100% position; height: auto;"> -->
+<!-- </div> -->
 
-## Hi there 👋
+## Hey there 👋
+
+### 👨‍💻 I'm a QA Engineer | Detail-Oriented | Quality-Driven
+
+Passionate about delivering high-quality products. Skilled in testing, automation, and tools.
 
 ---
 
-### 👨‍💻 About me:
+### Languages and Tools
 
-I’m a highly motivated QA engineer who pays close attention to details and is eager to ensure that products and services maintain the highest quality and compliance standards.
-
-- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daria-zakh/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.darzgs@gmail.com)
-- My [CV](https://drive.google.com/file/d/13_AyhyiVQOaOQizOYdcnx1utfmmVWRyu/view?usp=sharing)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=cc0000)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=CSS3&logoColor=1356b5)
+![GIT](https://img.shields.io/badge/GIT-111?style=for-the-badge&logo=GIT&logoColor=e7490d)
+![CYPRESS](https://img.shields.io/badge/Cypress-111?style=for-the-badge&logo=Cypress&logoColor=308206)
+![POSTMAN](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=Postman&logoColor=ea9e4f)
+![CHARLES](https://img.shields.io/badge/Charles-111?style=for-the-badge&logo=Charles&logoColor=cfc0f0)
+![JIRA](https://img.shields.io/badge/JIRA-111?style=for-the-badge&logo=JIRA&logoColor=126ef0)
+![SQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=MySQL&logoColor=126ef0)
+![Cucumber](https://img.shields.io/badge/Cucumber-111?style=for-the-badge&logo=Cucumber&logoColor=0de73c)
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=Figma&logoColor=cf4187)
+![DevTools](https://img.shields.io/badge/DevTools-111?style=for-the-badge&logo=DevTools&logoColor=cf4187)
+![Swagger](https://img.shields.io/badge/Swagger-111?style=for-the-badge&logo=Swagger&logoColor=c4e5b6)
+![Jenkins](https://img.shields.io/badge/Jenkins-111?style=for-the-badge&logo=Jenkins&logoColor=#f00d3c)
 
 ---
-### 🤝 Social media
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=LinkedIn&logoColor=195d9a)](https://www.linkedin.com/in/daria-zakh/)
+[![Gmail](https://img.shields.io/badge/Gmail-111?style=for-the-badge&logo=Gmail&logoColor=d22323)](mailto:qa.darzgs@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-111?style=for-the-badge&logo=Telegram&logoColor=)](https://t.me/darriadao)
+
+<!-- [![Gmail](https://img.shields.io/badge/-Gmail-111?style=flat&logo=Gmail&logoColor=white)](mailto:qa.darzgs@gmail.com) -->
+
+<!-- - My [CV](https://drive.google.com/file/d/13_AyhyiVQOaOQizOYdcnx1utfmmVWRyu/view?usp=sharing) -->
+
+<!-- --- -->
+
+<!-- ### 🤝 Social media
 
   <div id="badges">
     <a href="www.linkedin.com/in/daria-zakh" target="_blank">
@@ -23,45 +54,12 @@ I’m a highly motivated QA engineer who pays close attention to details and is 
     <a href="https://t.me/darriadao" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
-  </div>
+  </div> -->
 
----
+<!-- ---
 
 ### Portfolio
 
-My test-artifacts you can find here
-
---
-
-### Hard skills
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-</div>
+My test-artifacts you can find here -->
 
 ---
-<!--
-**Dariadao/Dariadao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
